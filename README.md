@@ -1,4 +1,4 @@
-# Work Day Scheduler Starter Code
+# Work Day Scheduler 
 
 GIVEN I am using a daily planner to create a schedule
 WHEN I open the planner
